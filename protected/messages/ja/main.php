@@ -1,0 +1,26 @@
+<?php
+return array(
+	'Ngôn ngữ' => '言語',
+	'Danh mục' => 'カテゴリ',
+	'Tiêu đề' => 'タイトル',
+	'Mô tả' => '説明',
+	'Nội dung' => 'コンテンツ',
+	'Hình ảnh' => '将来像',
+	'Nguồn' => 'ソース',
+	'Tin nóng' => 'ホットな新',
+	'Trạng thái' => '活性化する',
+	
+	'Quản lý tin tức' => 'ニュース管理',
+	'Tin tức' => 'ニュース',
+	'Trang chủ' => 'ホーム',
+	'Giới thiệu' => '約',
+	'Tin tức' => 'ニュース',
+	'Nhà đầu tư' => '投資家',
+	'Tại sao chọn HHTP' => 'なぜHHTPを選択',
+	'Thủ tục đầu tư' => '投資手続き',
+	'Văn bản Pháp luật' => '法律文書',
+	'Hỏi đáp' => 'お問い合わせ',
+	'Thoát' => 'サインアウト',
+	'Tin tức' => 'ニュース',
+	'Thêm tin tức' => 'Thêm tin tức',
+);
